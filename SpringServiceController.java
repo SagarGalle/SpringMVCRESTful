@@ -1,4 +1,4 @@
-package com.programmingfree.springservice.controller;
+package com.springservice.controller;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.programmingfree.springservice.dao.UserService;
-import com.programmingfree.springservice.domain.User;
+import com.springservice.dao.UserService;
+import com.springservice.domain.User;
 
 /**
  * maps the incoming request to appropriate methods and returns response in json format
