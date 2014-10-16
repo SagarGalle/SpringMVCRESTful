@@ -1,4 +1,4 @@
-package com.programmingfree.springservice.dao;
+package com.springservice.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,8 +9,8 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.programmingfree.springservice.domain.User;
-import com.programmingfree.springservice.utility.DBUtility;
+import com.springservice.domain.User;
+import com.springservice.utility.DBUtility;
 
 //performs data access operations to get data from database
 
