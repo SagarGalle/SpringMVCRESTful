@@ -1,4 +1,4 @@
-package com.programmingfree.springservice.domain;
+package com.springservice.domain;
 
 //model class that represents the data in the database
 
