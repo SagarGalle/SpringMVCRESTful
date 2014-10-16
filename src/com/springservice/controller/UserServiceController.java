@@ -17,7 +17,7 @@ import com.springservice.domain.User;
 
 @RestController
 @RequestMapping("/service/user/")
-public class SpringServiceController {
+public class UserServiceController {
 	
 	UserService userService=new UserService();
 	     	    
