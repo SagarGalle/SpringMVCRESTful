@@ -1,4 +1,4 @@
-package com.programmingfree.springservice.utility;
+package com.springservice.utility;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
